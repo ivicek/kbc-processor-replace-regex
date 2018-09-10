@@ -1,5 +1,5 @@
 
-### Replace with regex 
+# Replace with regex 
 
 Reads all `*.csv` files in `data/in/files` or `data/in/tables` (doesn't matter how deeply files are nested or what folder structure they have, but .csv suffix is obligatory) and performes basic character replacement with `sed` bash command.
 
